@@ -12,3 +12,4 @@ print(name,surname)
 print("wiek to: ",age)
 print("I jestes",sex)
 print("Dziekuje za wspolprace")
+#okej
